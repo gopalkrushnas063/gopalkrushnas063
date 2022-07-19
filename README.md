@@ -1,11 +1,35 @@
-<h1 align="center">Hi 👋, I'm Gopal Krushna Sahoo</h1>
-<h3 align="center">A Aspirant full stack web developer from India</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalkrushnas063&label=Profile%20views&color=0e75b6&style=flat" alt="gopalkrushnas063" /> </p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/gopal-krushna-sahoo-b537bb245/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopalkrushnas063" alt="gopalkrushnas063" /></a> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-- 📫 How to reach me **gopalkrushnas063@gmail.com**
+I am an Aspirant Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<br>
+- :telescope: I’m learning as an Aspirant Full Stack Web Developemnt and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: gopalkrushnas063@gamil.com
+
+<hr>
+### :hammer_and_wrench: Languages and Tools :
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
