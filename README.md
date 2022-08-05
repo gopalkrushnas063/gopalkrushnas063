@@ -88,7 +88,7 @@ I am an Aspirant Full Stack Developer <img src="https://media.giphy.com/media/WU
 <br>
 <p align="center"><img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopalkrushnas063&show_icons=true&locale=en&layout=compact" alt="gopalkrushnas063" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopalkrushnas063&show_icons=true&locale=en" alt="gopalkrushnas063" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopalkrushnas063&show_icons=true&locale=en" alt="gopalkrushnas063" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalkrushnas063&" alt="gopalkrushnas063" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalkrushnas063&" alt="gopalkrushnas063" /></p>
 <br>
