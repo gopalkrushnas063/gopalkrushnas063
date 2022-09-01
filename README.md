@@ -10,6 +10,8 @@ I am an Aspirant Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 - :mailbox:How to reach me: gopalkrushnas063@gamil.com
 
+
+
 <hr>
 
 <h2 align="center" border="0" dir="auto"><a id="user-content-my-tech-stack" class="anchor" aria-hidden="true" href="#my-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>My Tech Stack</h2>
@@ -29,33 +31,36 @@ I am an Aspirant Full Stack Developer <img src="https://media.giphy.com/media/WU
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗛𝗧𝗠𝗟𝟱</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667"><img height="64px" src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667" data-canonical-src="https://cdn.svgporn.com/logos/html-5.svg" style="max-width: 100%;"></a>
+<a><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="100"></a>
+
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗖𝗦𝗦𝟯</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/367dd0be4d8a115eea884c2794dd1ab8751034782a4cf9f0d0c1155fd984a7d0/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667"><img height="64px" src="https://camo.githubusercontent.com/367dd0be4d8a115eea884c2794dd1ab8751034782a4cf9f0d0c1155fd984a7d0/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667" data-canonical-src="https://cdn.svgporn.com/logos/css-3.svg" style="max-width: 100%;"></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0c6adf0b34772f192a1c98b80ca013f2d69e954738b20062a114d9bbd245aab5/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176617363726970742e737667"><img height="64px" src="https://camo.githubusercontent.com/0c6adf0b34772f192a1c98b80ca013f2d69e954738b20062a114d9bbd245aab5/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176617363726970742e737667" data-canonical-src="https://cdn.svgporn.com/logos/javascript.svg" style="max-width: 100%;"></a>
+<a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>𝗥𝗲𝗮𝗰𝘁</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/258e4f46e082ec3dcfa3c4a90970a3d69d992c78c977ba7e0dd47b100a66f6f2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656163742e737667"><img height="64px" src="https://camo.githubusercontent.com/258e4f46e082ec3dcfa3c4a90970a3d69d992c78c977ba7e0dd47b100a66f6f2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656163742e737667" data-canonical-src="https://cdn.svgporn.com/logos/react.svg" style="max-width: 100%;"></a>
+<p dir="auto"><span>𝗝𝗮𝘃𝗮</span><br><br></p>
+<a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100"></a>
 </td>
 </tr>
 <tr valign="top">
 <td width="25%" align="center">
-<p dir="auto"><span>NodeJS</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7c3ca10871ab6f7260f6e6b58e9e930fbdd5ffac3a09cc9d520c630a1fe41ec8/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e6f64656a732e737667"><img height="64px" src="https://camo.githubusercontent.com/7c3ca10871ab6f7260f6e6b58e9e930fbdd5ffac3a09cc9d520c630a1fe41ec8/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e6f64656a732e737667" data-canonical-src="https://cdn.svgporn.com/logos/nodejs.svg" style="max-width: 100%;"></a>
+<p dir="auto"><span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁</span><br><br></p>
+<a><img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>Express</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d31ee43326ff8fc1ceb7e92f619d28e3d005727d96056c9bafdebcac35295729/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f657870726573732e737667"><img height="64px" src="https://camo.githubusercontent.com/d31ee43326ff8fc1ceb7e92f619d28e3d005727d96056c9bafdebcac35295729/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f657870726573732e737667" data-canonical-src="https://cdn.svgporn.com/logos/express.svg" style="max-width: 100%;"></a>
+<p dir="auto"><span>𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗝 𝗜𝗗𝗘𝗔</span><br><br></p>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="100"></a>
+
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>Mongodb</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e128a7ebc1defedc5413a9c76cbbcdc489b0f89fb009e6a5d661bdbede30d3bd/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6f6e676f64622e737667"><img height="64px" src="https://camo.githubusercontent.com/e128a7ebc1defedc5413a9c76cbbcdc489b0f89fb009e6a5d661bdbede30d3bd/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6f6e676f64622e737667" data-canonical-src="https://cdn.svgporn.com/logos/mongodb.svg" style="max-width: 100%;"></a>
+<p dir="auto"><span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁 𝗧𝗼𝗼𝗹 𝗦𝘂𝗶𝘁 𝟰</span><br><br></p>
+<a><img src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" height="100"></a>
+
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br></p>
