@@ -69,8 +69,28 @@ I am an Aspirant Full Stack Developer <img src="https://media.giphy.com/media/WU
 </tr>
 <tr valign="top">
 <td width="25%" align="center">
-<p dir="auto"><span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br></p>
-<a><img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="100"></a>
+<p dir="auto"><span>𝗟𝗶𝗻𝘂𝘅</span><br><br></p>
+<a><img src="https://www.seekpng.com/png/full/237-2372232_linux-logo-linux-logo.png" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝗥𝗲𝗱𝘂𝘅</span><br><br></p>
+<a><img src="https://miro.medium.com/max/312/1*SRL22ADht1NU4LXUeU4YVg.png" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝗚𝗶𝘁</span><br><br></p>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667"><img height="64px" src="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" data-canonical-src="https://cdn.svgporn.com/logos/git-icon.svg" style="max-width: 100%;"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br></p>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667"><img height="64px" src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" data-canonical-src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="max-width: 100%;"></a>
+</td>
+</tr>
+
+
+<tr valign="top">
+<td width="25%" align="center">
+<p dir="auto"><span>𝗟𝗶𝗻𝘂𝘅</span><br><br></p>
+<a><img src="https://www.seekpng.com/png/full/237-2372232_linux-logo-linux-logo.png" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗥𝗲𝗱𝘂𝘅</span><br><br></p>
