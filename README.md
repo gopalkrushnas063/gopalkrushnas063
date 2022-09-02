@@ -64,17 +64,17 @@ I am an Aspirant Full Stack Developer <img src="https://media.giphy.com/media/WU
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2c69dc89e7484cf00c5375512ba804c3b7ca8284dab85a8782af3f2bfbeb52c1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7461696c77696e646373732d69636f6e2e737667"><img height="64px" src="https://camo.githubusercontent.com/2c69dc89e7484cf00c5375512ba804c3b7ca8284dab85a8782af3f2bfbeb52c1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7461696c77696e646373732d69636f6e2e737667" data-canonical-src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" style="max-width: 100%;"></a>
+<a><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" height="100"></a>
 </td>
 </tr>
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/114a0bc512f4a3a808900d175b031a6dc0776a85bc6b1c5eaee3021b13581ab1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626f6f7473747261702e737667"><img height="64px" src="https://camo.githubusercontent.com/114a0bc512f4a3a808900d175b031a6dc0776a85bc6b1c5eaee3021b13581ab1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626f6f7473747261702e737667" data-canonical-src="https://cdn.svgporn.com/logos/bootstrap.svg" style="max-width: 100%;"></a>
+<a><img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗥𝗲𝗱𝘂𝘅</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/321d4616110f60a3b946fc6c562e6b9d98a6c93d2bb0ef78fb2a85c5c6b6e009/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656475782e737667"><img height="64px" src="https://camo.githubusercontent.com/321d4616110f60a3b946fc6c562e6b9d98a6c93d2bb0ef78fb2a85c5c6b6e009/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656475782e737667" data-canonical-src="https://cdn.svgporn.com/logos/redux.svg" style="max-width: 100%;"></a>
+<a><img src="https://miro.medium.com/max/312/1*SRL22ADht1NU4LXUeU4YVg.png" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗚𝗶𝘁</span><br><br></p>
