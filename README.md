@@ -73,8 +73,8 @@ I am an Aspirant Full Stack Developer <img src="https://media.giphy.com/media/WU
 <a><img src="https://www.seekpng.com/png/full/237-2372232_linux-logo-linux-logo.png" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>𝗥𝗲𝗱𝘂𝘅</span><br><br></p>
-<a><img src="https://miro.medium.com/max/312/1*SRL22ADht1NU4LXUeU4YVg.png" height="100"></a>
+<p dir="auto"><span>Heroku</span><br><br></p>
+<a><img src="https://ivangabriele.gallerycdn.vsassets.io/extensions/ivangabriele/vscode-heroku/1.4.3/1563906575407/Microsoft.VisualStudio.Services.Icons.Default" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗚𝗶𝘁</span><br><br></p>
@@ -89,8 +89,8 @@ I am an Aspirant Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 <tr valign="top">
 <td width="25%" align="center">
-<p dir="auto"><span>𝗟𝗶𝗻𝘂𝘅</span><br><br></p>
-<a><img src="https://www.seekpng.com/png/full/237-2372232_linux-logo-linux-logo.png" height="100"></a>
+<p dir="auto"><span>Rapid API</span><br><br></p>
+<a><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/reuntzuy6gy8ssnbktye" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗥𝗲𝗱𝘂𝘅</span><br><br></p>
