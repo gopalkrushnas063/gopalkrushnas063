@@ -97,12 +97,12 @@ I am an Aspirant Full Stack Developer <img src="https://media.giphy.com/media/WU
 <a><img src="https://miro.medium.com/max/312/1*SRL22ADht1NU4LXUeU4YVg.png" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>𝗚𝗶𝘁</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667"><img height="64px" src="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" data-canonical-src="https://cdn.svgporn.com/logos/git-icon.svg" style="max-width: 100%;"></a>
+<p dir="auto"><span>My SQL</span><br><br></p>
+<a><img src="https://thepiguy.altervista.org/wp-content/uploads/2017/06/mysql-logo.jpg" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667"><img height="64px" src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" data-canonical-src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="max-width: 100%;"></a>
+<p dir="auto"><span>AWS</span><br><br></p>
+<a><img src="https://marvel-b1-cdn.bc0a.com/f00000000243109/1x5o5mujiug388ttap1p8s17-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/AWS-logo-2.jpg" height="100"></a>
 </td>
 </tr>
 </tbody>
