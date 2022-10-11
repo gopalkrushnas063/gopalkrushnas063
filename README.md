@@ -6,7 +6,7 @@ I am an Aspirant Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
 - :mailbox:How to reach me: gopalkrushnas063@gamil.com
 
