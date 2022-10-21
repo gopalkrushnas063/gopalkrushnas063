@@ -63,8 +63,8 @@ I am an Aspirant JAVA Backend Developer <img src="https://media.giphy.com/media/
 
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br></p>
-<a><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" height="100"></a>
+<p dir="auto"><span>Netlify</span><br><br></p>
+<a><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" height="100"></a>
 </td>
 </tr>
 <tr valign="top">
