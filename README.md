@@ -6,7 +6,7 @@ I am an Aspirant JAVA Backend Developer <img src="https://media.giphy.com/media/
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
 - :mailbox:How to reach me: gopalkrushnas063@gamil.com
 
