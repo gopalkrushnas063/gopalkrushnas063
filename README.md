@@ -2,7 +2,7 @@
 
 I am an Aspirant Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <br>
-- :telescope: I’m learning as an Aspirant Full Stack Web Developemnt and contributing to frontend and backend for building web applications.
+- :telescope: I’m learning as an Aspirant JAVA Backend Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
