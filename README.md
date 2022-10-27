@@ -108,7 +108,8 @@ I am an Aspirant JAVA Backend Developer <img src="https://media.giphy.com/media/
 </tbody>
 </table>
 <hr>
-
+<br>
+<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalkrushnas063&langs_count=8" alt="gopalkrushnas063"/></p>
 
 <br>
 <p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api?username=gopalkrushnas063&amp;show_icons=true&amp;locale=en" alt="gopalkrushnas063"/></p>
