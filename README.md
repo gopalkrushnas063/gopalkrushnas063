@@ -93,8 +93,8 @@ I am an Aspirant JAVA Backend Developer <img src="https://media.giphy.com/media/
 <a><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/reuntzuy6gy8ssnbktye" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>𝗥𝗲𝗱𝘂𝘅</span><br><br></p>
-<a><img src="https://miro.medium.com/max/312/1*SRL22ADht1NU4LXUeU4YVg.png" height="100"></a>
+<p dir="auto"><span>Hibrnate</span><br><br></p>
+<a><img src="http://fruzenshtein.com/wp-content/uploads/2014/01/Hibernate-logo.png" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>My SQL</span><br><br></p>
