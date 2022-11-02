@@ -4,7 +4,7 @@ I am an Aspirant JAVA Backend Developer <img src="https://media.giphy.com/media/
 <br>
 - :telescope: I’m learning as an JAVA  and contributing to backend development.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content.
 
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
