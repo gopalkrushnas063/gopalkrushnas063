@@ -3,7 +3,8 @@
 ![Cover](https://user-images.githubusercontent.com/103574856/200390769-df08288a-2ea7-4289-a937-244756460df4.png)
 
 
-I am an Aspirant JAVA Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<h1 align="center"> Hi there 👋, my name is Gopal Krushna Sahoo</h1>
+<h3  align="center"> I am aspirant Java Backend Developer.</h3>
 <br>
 - :telescope: I’m learning as an JAVA  and contributing to backend development.
 
@@ -112,15 +113,32 @@ I am an Aspirant JAVA Backend Developer <img src="https://media.giphy.com/media/
 </table>
 <hr>
 <br>
+
+
+
 <p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalkrushnas063&langs_count=8" alt="gopalkrushnas063"/></p>
 
 <br>
-<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api?username=gopalkrushnas063&amp;show_icons=true&amp;locale=en" alt="gopalkrushnas063"/></p>
 
-<br>
-<p align="center"><img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalkrushnas063&amp;" alt="gopalkrushnas063"/></p>
+<table align="center">
+<tbody>
+<tr valign="top">
+<td width="25%" align="center">
+<p align="right"><img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalkrushnas063&amp;" alt="gopalkrushnas063"/></p>
+</td>
+<td width="25%" align="center">
+<p align="left"><img height="100%" src="https://github-readme-stats.vercel.app/api?username=gopalkrushnas063&amp;show_icons=true&amp;locale=en" alt="gopalkrushnas063"/></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
 <br>
 
 <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=gopalkrushnas063&bg_color=030203&color=d3d600&line=0787e9&point=225e52&area=true&hide_border=true" alt="gopalkrushnas063"></p>
 
-<p align="center"><img align="center" src="profile-3d-contrib/profile-season-animate.svg" alt="gopalkrushnas063"></p>
+<p align="center"><img align="center" src="profile-3d-contrib/profile-night-green.svg" alt="gopalkrushnas063"></p>
