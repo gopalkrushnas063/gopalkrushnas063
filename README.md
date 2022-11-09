@@ -124,9 +124,11 @@
 <tbody>
 <tr valign="top">
 <td width="25%" align="center">
+<br>
 <p align="right"><img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalkrushnas063&amp;" alt="gopalkrushnas063"/></p>
 </td>
 <td width="25%" align="center">
+<br>
 <p align="left"><img height="100%" src="https://github-readme-stats.vercel.app/api?username=gopalkrushnas063&amp;show_icons=true&amp;locale=en" alt="gopalkrushnas063"/></p>
 </td>
 </tr>
