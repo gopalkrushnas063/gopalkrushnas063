@@ -1,10 +1,11 @@
 ![Profile views](https://gpvc.arturio.dev/gopalkrushnas063)
+<h1 align="center">Hi 👋, I am Gopal Krushna Sahoo</h1><div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
+</div>
 
 ![Cover](https://user-images.githubusercontent.com/103574856/200390769-df08288a-2ea7-4289-a937-244756460df4.png)
 
 
-<h1 align="center"> Hi there 👋, my name is Gopal Krushna Sahoo</h1>
-<h3  align="center"> I am aspirant Java Backend Developer.</h3>
 <br>
 - :telescope: I’m learning as an JAVA  and contributing to backend development.
 
