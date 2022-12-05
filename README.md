@@ -148,6 +148,6 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=gopalkrushnas063&bg_color=030203&color=d3d600&line=0787e9&point=225e52&area=true&hide_border=true" alt="gopalkrushnas063"></p>
 
-<p align="center"><img align="center" src="profile-3d-contrib/profile-night-green.svg" alt="gopalkrushnas063"></p>
+
+<!-- <p align="center"><img align="center" src="profile-3d-contrib/profile-night-green.svg" alt="gopalkrushnas063"></p> -->
