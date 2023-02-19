@@ -109,7 +109,7 @@
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>My SQL</span><br><br></p>
-<a><img src="https://thepiguy.altervista.org/wp-content/uploads/2017/06/mysql-logo.jpg" height="100"></a>
+<a><img src="https://user-images.githubusercontent.com/103574856/219943806-ddde95d2-4be4-4162-b7c9-7f18fb2948fe.png" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>AWS</span><br><br></p>
