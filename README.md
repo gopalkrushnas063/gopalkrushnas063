@@ -101,7 +101,7 @@
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>Rapid API</span><br><br></p>
-<a><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/reuntzuy6gy8ssnbktye" height="100"></a>
+<a><img src="https://user-images.githubusercontent.com/103574856/220044098-ce80ba59-75d6-4e1c-875b-c42126c7e0ed.png" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>Hibrnate</span><br><br></p>
