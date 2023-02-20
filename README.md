@@ -29,9 +29,9 @@
 <p align="center">
 <a href="https://codepen.io/gopalkrushnas063" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" alt="gopalkrushnas063" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/gopal-krushna-sahoo-b537bb245" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="gopal-krushna-sahoo-b537bb245" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/gopalkrushnas063" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="gopalkrushnas063" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/gopalkrushnas063" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/eH3Hg3QBIn0NY8ONUyv_zO5mcGhqFPZtmIlNkva5jzIrhqexLxkSaoc-zmKICKtpzIE=w240-h480-rw" alt="gopalkrushnas063" height="30" width="30" /></a>
-<a href="gopalkrushnas063@gmail.com" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-brand-brands-gmail-logo-logos-icon-22.png" alt="gopalkrushnas063" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/gopalkrushnas063" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220100990-cc4ee47d-acb8-4528-ad67-c8cc1eedca68.png" alt="gopalkrushnas063" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/gopalkrushnas063" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220102737-cefd3288-19d3-4a84-8435-3dd5f74a0726.png" alt="gopalkrushnas063" height="30" width="30" /></a>
+<a href="gopalkrushnas063@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220101591-caaceff1-df2e-481c-b554-42825a04375d.png" alt="gopalkrushnas063" height="25" width="30" /></a>
 </p>
 
 
