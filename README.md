@@ -112,8 +112,8 @@
 <a><img src="https://user-images.githubusercontent.com/103574856/219943806-ddde95d2-4be4-4162-b7c9-7f18fb2948fe.png" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>AWS</span><br><br></p>
-<a><img src="https://marvel-b1-cdn.bc0a.com/f00000000243109/1x5o5mujiug388ttap1p8s17-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/AWS-logo-2.jpg" height="100"></a>
+<p dir="auto"><span>𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗔𝗻𝗱 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺</span><br><br></p>
+<a><img src="https://user-images.githubusercontent.com/103574856/220046420-e703509f-371a-4a43-a4af-9076f3bb21ce.png" height="100"></a>
 </td>
 </tr>
 </tbody>
