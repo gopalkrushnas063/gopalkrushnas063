@@ -61,7 +61,7 @@
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁</span><br><br></p>
-<a><img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" height="100"></a>
+<a><img src="https://user-images.githubusercontent.com/103574856/220042941-fba009d3-2daa-4529-b89b-420056924a17.png" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗝 𝗜𝗗𝗘𝗔</span><br><br></p>
@@ -70,7 +70,7 @@
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁 𝗧𝗼𝗼𝗹 𝗦𝘂𝗶𝘁 𝟰</span><br><br></p>
-<a><img src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" height="100"></a>
+<a><img src="https://user-images.githubusercontent.com/103574856/220043688-f6ef29ce-d1db-42c6-9851-383075f93a29.png" height="100"></a>
 
 </td>
 <td width="25%" align="center">
