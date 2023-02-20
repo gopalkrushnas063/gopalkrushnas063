@@ -74,7 +74,7 @@
 
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>Netlify</span><br><br></p>
+<p dir="auto"><span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br></p>
 <a><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" height="100"></a>
 </td>
 </tr>
@@ -84,7 +84,7 @@
 <a><img src="https://www.seekpng.com/png/full/237-2372232_linux-logo-linux-logo.png" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>Heroku</span><br><br></p>
+<p dir="auto"><span>𝗛𝗲𝗿𝗼𝗸𝘂</span><br><br></p>
 <a><img src="https://ivangabriele.gallerycdn.vsassets.io/extensions/ivangabriele/vscode-heroku/1.4.3/1563906575407/Microsoft.VisualStudio.Services.Icons.Default" height="100"></a>
 </td>
 <td width="25%" align="center">
@@ -100,15 +100,15 @@
 
 <tr valign="top">
 <td width="25%" align="center">
-<p dir="auto"><span>Rapid API</span><br><br></p>
+<p dir="auto"><span>𝗥𝗮𝗽𝗶𝗱 𝗔𝗣𝗜</span><br><br></p>
 <a><img src="https://user-images.githubusercontent.com/103574856/220044098-ce80ba59-75d6-4e1c-875b-c42126c7e0ed.png" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>Hibrnate</span><br><br></p>
+<p dir="auto"><span>𝗛𝗶𝗯𝗿𝗻𝗮𝘁𝗲</span><br><br></p>
 <a><img src="http://fruzenshtein.com/wp-content/uploads/2014/01/Hibernate-logo.png" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>My SQL</span><br><br></p>
+<p dir="auto"><span>𝗠𝘆𝗦𝗤𝗟</span><br><br></p>
 <a><img src="https://user-images.githubusercontent.com/103574856/219943806-ddde95d2-4be4-4162-b7c9-7f18fb2948fe.png" height="100"></a>
 </td>
 <td width="25%" align="center">
