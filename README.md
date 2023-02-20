@@ -113,7 +113,7 @@
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗔𝗻𝗱 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺</span><br><br></p>
-<a><img src="https://user-images.githubusercontent.com/103574856/220046420-e703509f-371a-4a43-a4af-9076f3bb21ce.png" height="100"></a>
+<a><img src="https://user-images.githubusercontent.com/103574856/220046932-f87adbed-c9e5-4709-a7b4-c0f34a1b8244.png" height="100"></a>
 </td>
 </tr>
 </tbody>
