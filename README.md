@@ -27,11 +27,11 @@
 <h2 align="center" border="0" dir="auto"><a id="user-content-my-tech-stack" class="anchor" aria-hidden="true" href="#my-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>📫 How can you reach me?</h2>
 
 <p align="center">
-<a href="https://codepen.io/gopalkrushnas063" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" alt="gopalkrushnas063" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gopal-krushna-sahoo-b537bb245" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="gopal-krushna-sahoo-b537bb245" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gopalkrushnas063" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="gopalkrushnas063" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gopalkrushnas063" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/eH3Hg3QBIn0NY8ONUyv_zO5mcGhqFPZtmIlNkva5jzIrhqexLxkSaoc-zmKICKtpzIE=w240-h480-rw" alt="gopalkrushnas063" height="30" width="40" /></a>
-<a href="gopalkrushnas063@gmail.com" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-brand-brands-gmail-logo-logos-icon-22.png" alt="gopalkrushnas063" height="30" width="40" /></a>
+<a href="https://codepen.io/gopalkrushnas063" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" alt="gopalkrushnas063" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/gopal-krushna-sahoo-b537bb245" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="gopal-krushna-sahoo-b537bb245" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/gopalkrushnas063" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="gopalkrushnas063" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/gopalkrushnas063" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/eH3Hg3QBIn0NY8ONUyv_zO5mcGhqFPZtmIlNkva5jzIrhqexLxkSaoc-zmKICKtpzIE=w240-h480-rw" alt="gopalkrushnas063" height="30" width="30" /></a>
+<a href="gopalkrushnas063@gmail.com" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-brand-brands-gmail-logo-logos-icon-22.png" alt="gopalkrushnas063" height="30" width="30" /></a>
 </p>
 
 
