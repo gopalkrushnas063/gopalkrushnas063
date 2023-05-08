@@ -144,7 +144,6 @@
 
 
 <br>
-<br>
 
 
 <p align="center"><img align="center" src="profile-3d-contrib/profile-night-green.svg" alt="gopalkrushnas063"></p>
