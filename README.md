@@ -3,7 +3,6 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+Enthusiastic;Java+Backend+Developer;Fullstack+Web+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
 </div>
 
-![Cover](https://user-images.githubusercontent.com/103574856/200390769-df08288a-2ea7-4289-a937-244756460df4.png)
 
 
 <br>
