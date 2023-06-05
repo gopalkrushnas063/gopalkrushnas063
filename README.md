@@ -38,11 +38,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
 <tbody>
+ 
+<!-- Row 1  -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗛𝗧𝗠𝗟𝟱</span><br><br></p>
 <a><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="100"></a>
-
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗖𝗦𝗦𝟯</span><br><br></p>
@@ -57,6 +58,8 @@
 <a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100"></a>
 </td>
 </tr>
+ 
+ <!-- Row 2  -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁</span><br><br></p>
@@ -65,18 +68,38 @@
 <td width="25%" align="center">
 <p dir="auto"><span>𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗝 𝗜𝗗𝗘𝗔</span><br><br></p>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="100"></a>
-
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁 𝗧𝗼𝗼𝗹 𝗦𝘂𝗶𝘁 𝟰</span><br><br></p>
 <a><img src="https://user-images.githubusercontent.com/103574856/220043688-f6ef29ce-d1db-42c6-9851-383075f93a29.png" height="100"></a>
-
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br></p>
 <a><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" height="100"></a>
 </td>
 </tr>
+ 
+ <!-- Row 3  -->
+<tr valign="top">
+<td width="25%" align="center">
+<p dir="auto"><span>𝗥𝘂𝗯𝘆 𝗢𝗻 𝗥𝗮𝗶𝗹𝘀</span><br><br></p>
+<a><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MtuURq-9Fe3MZM5IZqQgyw.png" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝗦𝗽𝗿𝗲𝗲 𝗘𝗖𝗼𝗺</span><br><br></p>
+<a><img src="https://spreecommerce.org/wp-content/uploads/2019/02/spree-logo@2x.png" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝗥𝗲𝗮𝗰𝘁 𝗝𝗦</span><br><br></p>
+<a><img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png?fm=webp" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝗡𝗲𝘅𝘁𝗝𝗦</span><br><br></p>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/86465799-6bcb-4cad-9d1f-50f63ea46ff2" height="100"></a>
+</td>
+</tr>
+ 
+ <!-- Row 4  -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗟𝗶𝗻𝘂𝘅</span><br><br></p>
@@ -96,7 +119,7 @@
 </td>
 </tr>
 
-
+<!-- Row 5  -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗥𝗮𝗽𝗶𝗱 𝗔𝗣𝗜</span><br><br></p>
