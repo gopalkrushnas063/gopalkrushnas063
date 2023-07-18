@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/gopalkrushnas063)
+![GitHub Views](https://komarev.com/ghpvc/?username=gopalkrushnas063)
 <h1 align="center">Hi 👋, I am Gopal Krushna Sahoo</h1><div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+Enthusiastic;Java+Backend+Developer;Fullstack+Web+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
 </div>
