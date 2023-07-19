@@ -138,6 +138,26 @@
 <a><img src="https://user-images.githubusercontent.com/103574856/220046932-f87adbed-c9e5-4709-a7b4-c0f34a1b8244.png" height="100"></a>
 </td>
 </tr>
+
+<!-- Row 6  -->
+<tr valign="top">
+<td width="25%" align="center">
+<p dir="auto"><span>𝐏𝐇𝐏</span><br><br></p>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/16e31903-1a28-44e7-888d-8767e28508bb" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝐋𝐚𝐫𝐚𝐯𝐞𝐥</span><br><br></p>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/75px-Laravel.svg.png?20190820171151" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋</span><br><br></p>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/a8df82f6-0985-4796-a416-48d0cbeaa4c3" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝐂𝐨𝐝𝐞𝐢𝐠𝐧𝐢𝐭𝐞𝐫</span><br><br></p>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/9b38d8e9-3a33-468d-a1e3-2774139ca356" height="100"></a>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
