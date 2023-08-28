@@ -1,6 +1,6 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=gopalkrushnas063)
 <h1 align="center">Hi 👋, I am Gopal Krushna Sahoo</h1><div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+Enthusiastic;Java+Backend+Developer;Fullstack+Web+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+Enthusiastic;Android+Developer(Java);Java+Backend+Developer;Fullstack+Web+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
 </div>
 
 
@@ -38,8 +38,28 @@
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
 <tbody>
+
+<!-- Row 1 -->
+<tr valign="top">
+<td width="25%" align="center">
+<p dir="auto"><span>𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐒𝐭𝐮𝐝𝐢𝐨</span><br><br></p>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/5b1eb542-72de-4110-aec1-1a35f46a1a9e" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝐗𝐌𝐋</span><br><br></p>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/2e238f29-acf0-49d8-a075-32eec3b11c1d" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝐅𝐢𝐫𝐞𝐛𝐚𝐬𝐞</span><br><br></p>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/8050a80d-9873-456f-8b38-6eb248609c05" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐉𝐞𝐭𝐩𝐚𝐜𝐤</span><br><br></p>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/532b7a86-2609-47fa-a040-fff6b76a51f2" height="100"></a>
+</td>
+</tr>
  
-<!-- Row 1  -->
+<!-- Row 2 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗛𝗧𝗠𝗟𝟱</span><br><br></p>
@@ -59,7 +79,7 @@
 </td>
 </tr>
  
- <!-- Row 2  -->
+ <!-- Row 3 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁</span><br><br></p>
@@ -79,7 +99,7 @@
 </td>
 </tr>
  
- <!-- Row 3  -->
+ <!-- Row 4 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗥𝘂𝗯𝘆 𝗢𝗻 𝗥𝗮𝗶𝗹𝘀</span><br><br></p>
@@ -99,7 +119,7 @@
 </td>
 </tr>
  
- <!-- Row 4  -->
+ <!-- Row 5 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗟𝗶𝗻𝘂𝘅</span><br><br></p>
@@ -119,7 +139,7 @@
 </td>
 </tr>
 
-<!-- Row 5  -->
+<!-- Row 6 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗥𝗮𝗽𝗶𝗱 𝗔𝗣𝗜</span><br><br></p>
@@ -139,7 +159,7 @@
 </td>
 </tr>
 
-<!-- Row 6  -->
+<!-- Row 7 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝐏𝐇𝐏</span><br><br></p>
