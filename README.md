@@ -36,7 +36,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<table align="center">
+<table align="center" >
 <tbody>
 
 <!-- Row 1 -->
