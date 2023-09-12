@@ -42,6 +42,26 @@
 <!-- Row 1 -->
 <tr valign="top">
 <td width="25%" align="center">
+<p dir="auto"><span>𝐅𝐥𝐮𝐭𝐭𝐞𝐫</span><br><br></p>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/903ffcf7-01ce-4597-8283-b69ff075e3ca" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝐃𝐚𝐫𝐭</span><br><br></p>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/32c81895-9626-497c-a241-11cb0b94bc4d" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝐅𝐢𝐫𝐞𝐛𝐚𝐬𝐞</span><br><br></p>
+<a><img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" height="100"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐉𝐞𝐭𝐩𝐚𝐜𝐤</span><br><br></p>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/532b7a86-2609-47fa-a040-fff6b76a51f2" height="100"></a>
+</td>
+</tr>
+
+<!-- Row 2 -->
+<tr valign="top">
+<td width="25%" align="center">
 <p dir="auto"><span>𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐒𝐭𝐮𝐝𝐢𝐨</span><br><br></p>
 <a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/5b1eb542-72de-4110-aec1-1a35f46a1a9e" height="100"></a>
 </td>
@@ -50,16 +70,16 @@
 <a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/2e238f29-acf0-49d8-a075-32eec3b11c1d" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>𝐅𝐢𝐫𝐞𝐛𝐚𝐬𝐞</span><br><br></p>
+<p dir="auto"><span>𝐁𝐋𝐨𝐂</span><br><br></p>
 <a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/8050a80d-9873-456f-8b38-6eb248609c05" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐉𝐞𝐭𝐩𝐚𝐜𝐤</span><br><br></p>
-<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/532b7a86-2609-47fa-a040-fff6b76a51f2" height="100"></a>
+<p dir="auto"><span>𝐢𝐎𝐒</span><br><br></p>
+<a><img src="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg" height="100"></a>
 </td>
 </tr>
  
-<!-- Row 2 -->
+<!-- Row 3 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗛𝗧𝗠𝗟𝟱</span><br><br></p>
@@ -79,7 +99,7 @@
 </td>
 </tr>
  
- <!-- Row 3 -->
+ <!-- Row 4 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁</span><br><br></p>
@@ -99,7 +119,7 @@
 </td>
 </tr>
  
- <!-- Row 4 -->
+ <!-- Row 5 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗥𝘂𝗯𝘆 𝗢𝗻 𝗥𝗮𝗶𝗹𝘀</span><br><br></p>
@@ -119,7 +139,7 @@
 </td>
 </tr>
  
- <!-- Row 5 -->
+ <!-- Row 6 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗟𝗶𝗻𝘂𝘅</span><br><br></p>
@@ -139,7 +159,7 @@
 </td>
 </tr>
 
-<!-- Row 6 -->
+<!-- Row 7 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗥𝗮𝗽𝗶𝗱 𝗔𝗣𝗜</span><br><br></p>
@@ -159,7 +179,7 @@
 </td>
 </tr>
 
-<!-- Row 7 -->
+<!-- Row 8 -->
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝐏𝐇𝐏</span><br><br></p>
