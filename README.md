@@ -8,7 +8,7 @@
 <br>
 <img align="right" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w625" alt="Coding">
 
-- :telescope: Flutter Developer contributing to build frontend development.<img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/738c7843-955e-4106-93b3-ccb38ced201b" width="50">.
+- :telescope: Fullstack Mobile Application Developer contributing to build both fronted and backend development using (Flutter , Java, HTML, CSS , JS, React etc).<img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/738c7843-955e-4106-93b3-ccb38ced201b" width="50">.
 - 🌱 I’m from Khurda, Odisha, India <img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/1e470e1d-b800-426e-81db-74b697e6b2e5" width="29">.
 
 - :seedling: Exploring Technical Content.
