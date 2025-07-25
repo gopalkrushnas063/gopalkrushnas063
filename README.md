@@ -51,7 +51,7 @@
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝐅𝐢𝐫𝐞𝐛𝐚𝐬𝐞</span><br><br></p>
-<a><img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" height="100"></a>
+<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/8050a80d-9873-456f-8b38-6eb248609c05" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐉𝐞𝐭𝐩𝐚𝐜𝐤</span><br><br></p>
@@ -71,7 +71,7 @@
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝐁𝐋𝐨𝐂</span><br><br></p>
-<a><img src="https://github.com/gopalkrushnas063/gopalkrushnas063/assets/103574856/8050a80d-9873-456f-8b38-6eb248609c05" height="100"></a>
+<a><img src="https://pub.dev/packages/flutter_bloc/versions/9.1.1/gen-res/gen/logo.webp" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝐢𝐎𝐒</span><br><br></p>
@@ -151,11 +151,11 @@
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗚𝗶𝘁</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667"><img height="64px" src="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" data-canonical-src="https://cdn.svgporn.com/logos/git-icon.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg"><img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" data-canonical-src="https://cdn.svgporn.com/logos/git-icon.svg" style="max-width: 100%;"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667"><img height="64px" src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" data-canonical-src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"><img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" data-canonical-src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="max-width: 100%;"></a>
 </td>
 </tr>
 
